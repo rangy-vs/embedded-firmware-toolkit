@@ -1,6 +1,6 @@
 # Embedded Firmware Toolkit
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/embedded-firmware-toolkit/actions/workflows/ci.yml/badge.svg)
 
 Small, dependency-free C11 building blocks that nearly every firmware project re-implements, written to be portable (no `malloc`, no libc beyond `string.h`) and unit-tested on the host.
 
